@@ -1,0 +1,235 @@
+
+{
+    "abacaxi": {
+      "silabas": ["a", "ba", "ca", "xi"],
+      "fonemas": ["a", "ba", "ka", "ʃi"]
+    },
+    "banana": {
+      "silabas": ["ba", "na", "na"],
+      "fonemas": ["ba", "na", "na"]
+    },
+    "carro": {
+      "silabas": ["car", "ro"],
+      "fonemas": ["ka", "ho"]
+    },
+    "dicionario": {
+      "silabas": ["di", "ci", "o", "ná", "ri", "o"],
+      "fonemas": ["di", "si", "o", "na", "ɾi", "o"]
+    },
+    "elefante": {
+      "silabas": ["e", "le", "fan", "te"],
+      "fonemas": ["e", "le", "fã", "te"]
+    },
+    "felicidade": {
+      "silabas": ["fe", "li", "ci", "da", "de"],
+      "fonemas": ["fe", "li", "si", "da", "dʒi"]
+    },
+    "guitarra": {
+      "silabas": ["gui", "tar", "ra"],
+      "fonemas": ["gi", "ta", "ʁa"]
+    },
+    "hospital": {
+      "silabas": ["hos", "pi", "tal"],
+      "fonemas": ["os", "pi", "tau"]
+    },
+    "internet": {
+      "silabas": ["in", "ter", "net"],
+      "fonemas": ["ĩ", "teɾ", "net"]
+    },
+    "jardim": {
+      "silabas": ["jar", "dim"],
+      "fonemas": ["ʒaɾ", "dʒĩ"]
+    },
+    "kiwi": {
+      "silabas": ["ki", "wi"],
+      "fonemas": ["ki", "wi"]
+    },
+    "limão": {
+      "silabas": ["li", "mão"],
+      "fonemas": ["li", "mɐ̃w"]
+    },
+    "macaco": {
+      "silabas": ["ma", "ca", "co"],
+      "fonemas": ["ma", "ka", "ko"]
+    },
+    "nariz": {
+      "silabas": ["na", "riz"],
+      "fonemas": ["na", "ɾis"]
+    },
+    "olho": {
+      "silabas": ["o", "lho"],
+      "fonemas": ["o", "ʎu"]
+    },
+    "palavra": {
+      "silabas": ["pa", "la", "vra"],
+      "fonemas": ["pa", "la", "vɾa"]
+    },
+    "queijo": {
+      "silabas": ["quei", "jo"],
+      "fonemas": ["kej", "ʒu"]
+    },
+    "rio": {
+      "silabas": ["ri", "o"],
+      "fonemas": ["ɾi", "o"]
+    },
+    "sapato": {
+      "silabas": ["sa", "pa", "to"],
+      "fonemas": ["sa", "pa", "to"]
+    },
+    "tarde": {
+      "silabas": ["tar", "de"],
+      "fonemas": ["taɾ", "dʒi"]
+    },
+    "rede": {
+      "silabas": ["re", "de"],
+      "fonemas": ["he", "dʒi"]
+    },
+    "lobo": {
+      "silabas": ["lo", "bo"],
+      "fonemas": ["lo", "bu"]
+    },
+    "pente": {
+      "silabas": ["pen", "te"],
+      "fonemas": ["pẽ", "te"]
+    },
+    "branco": {
+      "silabas": ["bran", "co"],
+      "fonemas": ["bɾã", "ku"]
+    },
+    "fogo": {
+      "silabas": ["fo", "go"],
+      "fonemas": ["fo", "gu"]
+    },
+    "mesa": {
+      "silabas": ["me", "sa"],
+      "fonemas": ["me", "za"]
+    },
+    "vida": {
+      "silabas": ["vi", "da"],
+      "fonemas": ["vi", "da"]
+    },
+    "chave": {
+      "silabas": ["cha", "ve"],
+      "fonemas": ["ʃa", "vi"]
+    },
+    "canto": {
+      "silabas": ["can", "to"],
+      "fonemas": ["kã", "tu"]
+    },
+    "caneta": {
+      "silabas": ["ca", "ne", "ta"],
+      "fonemas": ["ka", "ne", "ta"]
+    },
+    "sorriso": {
+      "silabas": ["sor", "ri", "so"],
+      "fonemas": ["so", "ɾi", "zu"]
+    },
+    "cidade": {
+      "silabas": ["ci", "da", "de"],
+      "fonemas": ["si", "da", "dʒi"]
+    },
+    "bolo": {
+      "silabas": ["bo", "lo"],
+      "fonemas": ["bo", "lu"]
+    },
+    "avião": {
+      "silabas": ["a", "vi", "ão"],
+      "fonemas": ["a", "vi", "õ"]
+    },
+    "folha": {
+      "silabas": ["fo", "lha"],
+      "fonemas": ["fo", "ʎa"]
+    },
+    "chuva": {
+      "silabas": ["chu", "va"],
+      "fonemas": ["ʃu", "va"]
+    },
+    "carro": {
+      "silabas": ["car", "ro"],
+      "fonemas": ["ka", "ho"]
+    },
+    "tempo": {
+      "silabas": ["tem", "po"],
+      "fonemas": ["tẽ", "pu"]
+    },
+    "tampa": {
+      "silabas": ["tam", "pa"],
+      "fonemas": ["tã", "pa"]
+    },
+     "tampa": {
+      "silabas": ["tam", "pa"],
+      "fonemas": ["tã", "pa"]
+    },
+    "mapa": {
+      "silabas": ["ma", "pa"],
+      "fonemas": ["ma", "pa"]
+    },
+    "pato": {
+      "silabas": ["pa", "to"],
+      "fonemas": ["pa", "to"]
+    },
+    "mata": {
+      "silabas": ["ma", "ta"],
+      "fonemas": ["ma", "ta"]
+    },
+    "amar": {
+      "silabas": ["a", "mar"],
+      "fonemas": ["a", "maɾ"]
+    },
+    "mato": {
+      "silabas": ["ma", "to"],
+      "fonemas": ["ma", "to"]
+    },
+    "patas": {
+      "silabas": ["pa", "tas"],
+      "fonemas": ["pa", "tas"]
+    },
+    "marta": {
+      "silabas": ["mar", "ta"],
+      "fonemas": ["maɾ", "ta"]
+    },
+    "posta": {
+      "silabas": ["pos", "ta"],
+      "fonemas": ["pos", "ta"]
+    },
+    "topa": {
+      "silabas": ["to", "pa"],
+      "fonemas": ["to", "pa"]
+    },
+    "pasta": {
+      "silabas": ["pas", "ta"],
+      "fonemas": ["pas", "ta"]
+    },
+    "ponto": {
+      "silabas": ["pon", "to"],
+      "fonemas": ["põ", "to"]
+    },
+    "toma": {
+      "silabas": ["to", "ma"],
+      "fonemas": ["to", "ma"]
+    },
+    "aposta": {
+      "silabas": ["a", "pos", "ta"],
+      "fonemas": ["a", "pos", "ta"]
+    },
+    "mapa": {
+      "silabas": ["ma", "pa"],
+      "fonemas": ["ma", "pa"]
+    },
+    "amparo": {
+      "silabas": ["am", "pa", "ro"],
+      "fonemas": ["ã", "pa", "ɾu"]
+    },
+    "pota": {
+      "silabas": ["po", "ta"],
+      "fonemas": ["po", "ta"]
+    },
+    "parto": {
+      "silabas": ["par", "to"],
+      "fonemas": ["paɾ", "to"]
+    },
+    "trompa": {
+      "silabas": ["trom", "pa"],
+      "fonemas": ["tɾõ", "pa"]
+    }
+  }
